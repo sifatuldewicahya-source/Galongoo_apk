@@ -1,0 +1,6 @@
+{
+  "name": "GalonDekat",
+  "description": "Platform pemesanan galon air minum dan manajemen penjualan depot berbasis lokasi untuk Pembeli, Penjual, Kurir, dan Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

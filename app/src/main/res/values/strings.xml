@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GalonDekat</string>
+    <string name="app_slogan">Pesan Galon Lebih Mudah, Penjualan Lebih Teratur.</string>
+    <string name="logo_content_description">Logo aplikasi GalonDekat</string>
+    <string name="error_empty_fields">Harap lengkapi semua kolom yang wajib diisi.</string>
+    <string name="error_invalid_credentials">Nomor telepon/email atau kata sandi tidak sesuai.</string>
+</resources>
